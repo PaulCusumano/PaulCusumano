@@ -1,7 +1,9 @@
 - 👋 Hi, I’m PaulCusumano
 - 👀 I’m interested in Stem, Engineering, Robotics, Making things work better.
 - 🌱 I’m currently learning Electrical Engineering @ High Point University with a minor in Spanish
-- 📫 How to reach me ... linkedIn https://www.linkedin.com/in/paul-cusumano-287793222/ email pcusumano@proton.me
+- 📫 How to reach me  
+-    email pcusumano@proton.me
+-    linkedIn https://www.linkedin.com/in/paul-cusumano-287793222/
 - ⚡ Fun fact: I am an FIRST alumn of Team 810 https://github.com/team810
 
 <!---
